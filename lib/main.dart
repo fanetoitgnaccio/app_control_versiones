@@ -161,7 +161,7 @@ class _CameraHomePageState extends State<CameraHomePage> {
     final controller = _controller;
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Prueba de cámara - Control de Versiones'),
+        title: const Text('App Cámara - Jose - Seccion X'),
         actions: [
           if (_cameras.length > 1)
             IconButton(
